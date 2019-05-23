@@ -1,0 +1,7 @@
+Juego Multiplayer FPS, Sci-Fi 
+(similares a counter strike y Call of duty).
+
+Un mundo en el futuro donde las guerras ya no son humanos entre humanos, 
+sino entre robots. Los personajes serian robos IA intentando retomar territorios
+robados por los enemigos.
+
